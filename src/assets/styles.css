@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+#email,
+#password {
+    border-color: aqua;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: aquamarine;
+    border-color: aqua;
+    border-radius: 5PX;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#txt {
+    background-color: aqua;
+    border-radius: 10px;
+    height: 70px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
