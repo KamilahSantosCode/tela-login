@@ -5,8 +5,10 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 //import '../assets/styles.css'
+import '../assets/css2.css'
 import Login from '../pages/login'
 import Pokedex from '../pages/pokedex'
+
 
 const App =()=>{
     const esta_logado = JSON.parse(localStorage.getItem('USER'));

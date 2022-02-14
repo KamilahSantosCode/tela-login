@@ -1,0 +1,13 @@
+#titulo {
+    font-style: italic;
+    color: blueviolet;
+}
+
+.card {
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: rgb(196, 161, 228);
+    box-shadow: 5px 5px 5px blueviolet;
+    margin: 10px auto 10px;
+    padding: 10px 5px 5px 10px;
+}
