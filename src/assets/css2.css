@@ -11,3 +11,8 @@
     margin: 10px auto 10px;
     padding: 10px 5px 5px 10px;
 }
+
+.imagemCard {
+    object-fit: contain;
+    height: 200px;
+}

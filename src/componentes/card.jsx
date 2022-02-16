@@ -7,12 +7,12 @@ export function Card (poke) {
         <div className="card">
             <img
             id="imagem"
-            className="bg-success"
+            className="bg-success imagemCard"
             src={poke.image} 
             alt={poke.name}
             title={poke.name}/>
             <h3 className="text-center" id="nome">Nome: {poke.name}</h3> 
-            <h3 className="text-center" id="ordem">Ordem: {poke.order}</h3> 
+            {/* <h3 className="text-center" id="ordem">Ordem: {poke.order}</h3>  */}
 
         </div>
         
